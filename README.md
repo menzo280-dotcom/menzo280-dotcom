@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Enzo Gabriel Araujo Martins
+# 👨🏻‍💻 Enzo Martins
 
 **`Software Developer | Backend | Java`**
 

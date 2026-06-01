@@ -2,7 +2,7 @@
 
 **`Software Developer | Backend | Java`**
 
-My name is Enzo Gabriel Martins, I am 18 years old and based in São Paulo, Brazil. I am currently pursuing a degree in Computer Science, focused on backend development using Java and building scalable applications, REST APIs, and well-structured systems following clean architecture and database persistence best practices.
+My name is Enzo Martins, I am 18 years old and based in São Paulo, Brazil. I am currently pursuing a degree in Computer Science, focused on backend development using Java and building scalable applications, REST APIs, and well-structured systems following clean architecture and database persistence best practices.
 
 I have hands-on experience through personal projects using Java, Spring Boot, Hibernate/JPA, and relational databases, developing solutions such as REST APIs, stock market systems, entity management, and business rule implementation. I am also expanding my knowledge in Docker, Linux, Cloud technologies, and automated testing.
 

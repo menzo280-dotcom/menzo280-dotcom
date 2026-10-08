@@ -1,43 +1,54 @@
 # 👨🏻‍💻 Enzo Martins
 
-**`Software Developer | Backend | Java`**
+**`Backend Developer | Java | Spring Boot`**
 
-My name is Enzo Martins, I am 19 years old and based in São Paulo, Brazil. I am currently pursuing a degree in Computer Science, focused on backend development using Java and building scalable applications, REST APIs, and well-structured systems following clean architecture and database persistence best practices.
+Computer Science student in São Paulo, Brazil, focused on building REST APIs with Java and Spring Boot. I care about clean architecture, well-modeled databases, and code that is easy to maintain.
 
-I have hands-on experience through personal projects using Java, Spring Boot, Hibernate/JPA, and relational databases, developing solutions such as REST APIs, stock market systems, entity management, and business rule implementation. I am also expanding my knowledge in Docker, Linux, Cloud technologies, and automated testing.
-
-I am passionate about technology, continuous learning, and software development, with a strong interest in building organized, scalable, and high-performance backend solutions.
+🔭 **Currently learning:** Docker, Linux, automated testing, and AWS
 
 ---
 
-### 🚀 Languages and Tools
+### 🚀 Featured Projects
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+**📈 [StockMarket API](https://github.com/menzo280-dotcom/StockMarket)**
+Stock portfolio management API with JWT authentication, buy/sell transactions, transaction history, and portfolio analytics. Documented with Swagger/OpenAPI.
+`Java 17` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL`
 
-<img align="left" alt="Spring" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+**🛒 [Web Service API](https://github.com/menzo280-dotcom/web-service)**
+REST API for users, products, categories, orders, and payments, with a layered architecture, JPA relationships (OneToMany, ManyToMany, EmbeddedId), and custom exception handling.
+`Java 17` `Spring Boot` `JPA/Hibernate` `H2`
 
-<img align="left" alt="AWS" title="AWS (Learning)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+**♟️ [Chess System](https://github.com/menzo280-dotcom/chess-system-java)**
+Chess game built in Java applying object-oriented programming concepts.
+`Java`
 
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+**💈 [Barbershop Pavani](https://github.com/menzo280-dotcom/barbershop-pavani)**
+Barbershop website with an admin page, built with Java and Spring Boot.
+`Java` `Spring Boot` `HTML/CSS`
 
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+---
 
-<img align="left" alt="Hibernate" title="Hibernate / JPA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"/>
+### 🛠️ Languages and Tools
 
-<img align="left" alt="Docker" title="Docker (Learning)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+**Backend:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" title="Hibernate / JPA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven"/>
 
-<img align="left" alt="Maven" title="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
+**Databases:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+**Tools & DevOps:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger / OpenAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker (learning)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux (learning)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS (learning)"/>
 
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+---
 
-<img align="left" alt="Swagger" title="Swagger / OpenAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+### 📫 Let's connect
 
-<img align="left" alt="Linux" title="Linux (Learning)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="Python" title="Python (Basic)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<br/>
-<br/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-gabriel-araújo-martins-1010b62a4)
